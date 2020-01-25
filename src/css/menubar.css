@@ -1,0 +1,37 @@
+.menubar {
+    position: fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    background: darkgreen;
+    height: 50px;
+}
+
+.menubar_navigation {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    padding: 0 0.1rem;            /* eka arvo top-bottom, toka arvo left-right */
+}
+.logo{
+    color: whitesmoke;
+    text-decoration: none;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;  
+}
+.menuLinkItem {
+    color: whitesmoke;
+    text-decoration: none;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+}
+.menuLinkItem:hover,
+.menuLinkItem:active{
+    color: tomato; 
+}
+
+@media(max-width:600px){
+    .menuLinkItem {
+        display: none;
+    }
+}

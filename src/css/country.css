@@ -1,0 +1,14 @@
+.container{
+    margin: 5px;
+    background-color: rgba(236, 229, 229, 0.822);
+}
+
+.flag{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(240, 235, 235);
+}
+.element{
+    white-space: pre; 
+    margin-left: 10px; 
+}
