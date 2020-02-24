@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-redux-rest-typescript-example/static/css/main.54e2de28.chunk.css",
-    "main.js": "/react-redux-rest-typescript-example/static/js/main.7229523d.chunk.js",
-    "main.js.map": "/react-redux-rest-typescript-example/static/js/main.7229523d.chunk.js.map",
-    "runtime-main.js": "/react-redux-rest-typescript-example/static/js/runtime-main.10a3ea32.js",
-    "runtime-main.js.map": "/react-redux-rest-typescript-example/static/js/runtime-main.10a3ea32.js.map",
-    "static/js/2.c9893f6c.chunk.js": "/react-redux-rest-typescript-example/static/js/2.c9893f6c.chunk.js",
-    "static/js/2.c9893f6c.chunk.js.map": "/react-redux-rest-typescript-example/static/js/2.c9893f6c.chunk.js.map",
-    "index.html": "/react-redux-rest-typescript-example/index.html",
-    "precache-manifest.451f17458dee3b2b354180e2f031d5b6.js": "/react-redux-rest-typescript-example/precache-manifest.451f17458dee3b2b354180e2f031d5b6.js",
-    "service-worker.js": "/react-redux-rest-typescript-example/service-worker.js",
-    "static/css/main.54e2de28.chunk.css.map": "/react-redux-rest-typescript-example/static/css/main.54e2de28.chunk.css.map",
-    "static/js/2.c9893f6c.chunk.js.LICENSE": "/react-redux-rest-typescript-example/static/js/2.c9893f6c.chunk.js.LICENSE"
+    "main.css": "/countries/static/css/main.54e2de28.chunk.css",
+    "main.js": "/countries/static/js/main.2c6c5526.chunk.js",
+    "main.js.map": "/countries/static/js/main.2c6c5526.chunk.js.map",
+    "runtime-main.js": "/countries/static/js/runtime-main.c1e3e816.js",
+    "runtime-main.js.map": "/countries/static/js/runtime-main.c1e3e816.js.map",
+    "static/js/2.c9893f6c.chunk.js": "/countries/static/js/2.c9893f6c.chunk.js",
+    "static/js/2.c9893f6c.chunk.js.map": "/countries/static/js/2.c9893f6c.chunk.js.map",
+    "index.html": "/countries/index.html",
+    "precache-manifest.ee096a77e0e47baa47e84c8155b599cd.js": "/countries/precache-manifest.ee096a77e0e47baa47e84c8155b599cd.js",
+    "service-worker.js": "/countries/service-worker.js",
+    "static/css/main.54e2de28.chunk.css.map": "/countries/static/css/main.54e2de28.chunk.css.map",
+    "static/js/2.c9893f6c.chunk.js.LICENSE": "/countries/static/js/2.c9893f6c.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.10a3ea32.js",
+    "static/js/runtime-main.c1e3e816.js",
     "static/js/2.c9893f6c.chunk.js",
     "static/css/main.54e2de28.chunk.css",
-    "static/js/main.7229523d.chunk.js"
+    "static/js/main.2c6c5526.chunk.js"
   ]
 }
