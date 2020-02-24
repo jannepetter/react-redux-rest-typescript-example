@@ -35,7 +35,7 @@ const App: React.FC<Props> = (props) => {
 
   return (
     <div>
-      <Router>
+      <Router basename='/'>
         <SideDrawer sideDrawerOpen={sideDrawerOpen}></SideDrawer>
         <BackDrop sideDrawerOpen={sideDrawerOpen} toggleSideDrawer={toggleSideDrawer}></BackDrop>
         <div className='header'></div>
