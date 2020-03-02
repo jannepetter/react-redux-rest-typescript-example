@@ -30,7 +30,7 @@ const App: React.FC<Props> = props => {
 
   return (
     <div>
-      <Router basename="/">
+      <Router>
         <SideDrawer sideDrawerOpen={sideDrawerOpen}></SideDrawer>
         <BackDrop
           sideDrawerOpen={sideDrawerOpen}
