@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-redux-rest-typescript-example/static/css/main.ed59948f.chunk.css",
-    "main.js": "/react-redux-rest-typescript-example/static/js/main.2c6c5526.chunk.js",
-    "main.js.map": "/react-redux-rest-typescript-example/static/js/main.2c6c5526.chunk.js.map",
+    "main.js": "/react-redux-rest-typescript-example/static/js/main.7229523d.chunk.js",
+    "main.js.map": "/react-redux-rest-typescript-example/static/js/main.7229523d.chunk.js.map",
     "runtime-main.js": "/react-redux-rest-typescript-example/static/js/runtime-main.10a3ea32.js",
     "runtime-main.js.map": "/react-redux-rest-typescript-example/static/js/runtime-main.10a3ea32.js.map",
     "static/js/2.c9893f6c.chunk.js": "/react-redux-rest-typescript-example/static/js/2.c9893f6c.chunk.js",
     "static/js/2.c9893f6c.chunk.js.map": "/react-redux-rest-typescript-example/static/js/2.c9893f6c.chunk.js.map",
     "index.html": "/react-redux-rest-typescript-example/index.html",
-    "precache-manifest.e1a9cf507ffc2880e3fecd41fd72aee1.js": "/react-redux-rest-typescript-example/precache-manifest.e1a9cf507ffc2880e3fecd41fd72aee1.js",
+    "precache-manifest.9c71b1bc763f19bd426da8633baad8f8.js": "/react-redux-rest-typescript-example/precache-manifest.9c71b1bc763f19bd426da8633baad8f8.js",
     "service-worker.js": "/react-redux-rest-typescript-example/service-worker.js",
     "static/css/main.ed59948f.chunk.css.map": "/react-redux-rest-typescript-example/static/css/main.ed59948f.chunk.css.map",
     "static/js/2.c9893f6c.chunk.js.LICENSE": "/react-redux-rest-typescript-example/static/js/2.c9893f6c.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.10a3ea32.js",
     "static/js/2.c9893f6c.chunk.js",
     "static/css/main.ed59948f.chunk.css",
-    "static/js/main.2c6c5526.chunk.js"
+    "static/js/main.7229523d.chunk.js"
   ]
 }
