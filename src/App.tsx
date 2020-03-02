@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { connect, useDispatch } from 'react-redux';
 import { initializer } from './reducers/countryReducer';
 
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { HashRouter as Router, Route } from 'react-router-dom';
 import Region from './components/Region';
 import Menubar from './components/MenuBar';
 import Country from './components/Country';
