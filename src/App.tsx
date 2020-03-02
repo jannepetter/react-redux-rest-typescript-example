@@ -30,6 +30,7 @@ const App: React.FC<Props> = props => {
 
   return (
     <div>
+      {}
       <Router>
         <SideDrawer sideDrawerOpen={sideDrawerOpen}></SideDrawer>
         <BackDrop
